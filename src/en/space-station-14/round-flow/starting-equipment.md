@@ -36,29 +36,25 @@ Items that are widely available, easily crafted, and aren't strongly connected t
 
 ## Pillars
 
-### Ready to Work
+### Consistency
 
-At the start of a round every player should feel fully capable of performing their role. The equipment provided should enable them to do their job and affect the game world without needing to spend excessive time preparing. The purpose of their equipment should be intuitive so as to guide new players on the role's main tasks.
+While antithetical to chaos on its own, consistency can be an important tool to maximize player agency and thereby a player's ability to create chaos. Individual items and equipment are the verbs for interaction. By simplifying where to find these verbs and codifying the barriers to acquiring them, players are more capable of planning and engaging in the mechanics they enable.
 
 ### Functional, not Strong
 
 Tools provided at the start of the round should not be the most powerful option for an interaction. Certain tools are outright required to interact with certain mechanics, but mechanics should be deep enough that tools of varying effects and strength are available. This leaves room to diversify sources and options, allowing a sense of progression and choice later in the round.
 
-### Consistency
-
-While antithetical to chaos on its own, consistency can be an important tool to maximize player agency and thereby a player's ability to create chaos. Individual items and equipment are the verbs for interaction. By simplifying where to find these verbs and codifying the barriers to acquiring them, players are more capable of planning and engaging in the mechanics they enable.
-
 ## Locations
 
 ### Loadouts
 
-A loadout is the sum of all items on a player when they first spawn. Nearly every station job allows players to customize these loadouts as part of character creation. Being part of character customization, loadout options should focus on cosmetics and clothing. Beyond customization loadouts are used to gurantee certain gameplay necessities, and to communicate the crushing conformity of space capitalism.
+A loadout is the sum of all items on a player when they first spawn. Nearly every station job allows players to customize these loadouts as part of character creation. Being part of character customization, loadout options should focus on cosmetics and clothing. Beyond customization, loadouts are used to guarantee certain gameplay necessities, and to communicate the crushing conformity of space capitalism.
 
-Every role should spawn wearing department-identifying colors and clothing, with player options limited to different kinds of uniform. At minimum players should spawn with a PDA with ID, a backpack (or variant), a headset with their department's comms channel, and a jumpsuit. Learner roles should spawn with a guidebook. Optional categories can exist for any other kind of clothing, but clothing **must not** disguise a player's identity (such as face or fingerprints). Hiding one's identity should be a deliberate action taken during the round.
-
-Players should **not** spawn with job-essential equipment in their loadout. This includes essential clothing like armor and insulated gloves, as well as tools. This is done to emphasize roleplay by deemphasizing job simulation. Players don't need to be immediately capable of doing their job as it's only one part of the game. Instead they're encouraged to spend time talking with their coworkers in the locker room, delay their late arrival even longer by visiting the bar, or forget something and be unprepared. It's okay for a player to late join into chaos and not immediately possess the ability to combat that chaos.
+Every role should spawn wearing department-identifying colors and clothing, with player options limited to different kinds of uniform. At minimum players should spawn with a PDA with ID, a backpack (or variant), a headset with their department's comms channel, and a jumpsuit. Learner roles _must_ spawn with a guidebook. Optional categories can exist for any other kind of clothing, but clothing **must not** disguise a player's identity (such as face or fingerprints). Hiding one's identity should be a deliberate action taken during the round.
 
 Trinkets are the non-clothing items available in a loadout. These should be RP props used to establish a unique character, and should say something about your character's personality. They should not be used to shortcut finding readily available and common items (like cigarettes) or to give yourself an advantage with some special functionality.
+
+Players should **not** spawn with job-essential equipment in their loadout. This includes essential clothing like armor and insulated gloves, as well as tools. This is done to emphasize roleplay by deemphasizing job simulation. Players don't need to be immediately capable of doing their job as it's only one part of the game. Instead they're encouraged to spend time talking with their coworkers in the locker room, delay their late arrival even longer by visiting the bar, or forget something and be unprepared. It's okay for a player to late join into chaos and not immediately possess the ability to combat that chaos.
 
 #### Role Time Unlocks
 
@@ -66,9 +62,9 @@ Under discussion.
 
 ### Lockers
 
-At round-start every role spawns near one (1) complete set of their role's essential equipment. For most roles this gear is in a nearby locked container (a locker), but for some roles additional items might be placed around their starting room. Players can rely on finding a locker regardless of role in order to equip themselves to do that role whether you're an antagonist, getting promoted, or normal.
+At round-start every role spawns near one (1) complete set of their role's essential equipment. For most roles this gear is in a nearby locked container (a locker), but for some roles additional items might be placed around their starting room (such as in a suit storage). Players can rely on finding a locker regardless of role in order to equip themselves to do that role whether you're an antagonist, getting promoted, or normal.
 
-Maps should have enough lockers to supply the roundstart + latejoin capacity of the station (learner jobs included). This allows any player who joined as that role to have their essential gear available (as long as no disasters get in the way). Secondarily this makes it very rare for important tools to be a point of failure. Not having the tool you need to do your job is a hopeless situation which doesn't feel fun.
+Maps should have enough lockers to supply the roundstart + latejoin capacity of the station (learner jobs included). This allows any player who joined as that role to have their essential gear available (as long as no disasters get in the way). Secondarily this makes it very rare for vital tools to be a point of failure. Not having the tool you need to do your job _and_ lacking the ability to get those tools is a hopeless situation which doesn't feel fun.
 
 A player should want most items found in their locker or have a clear picture of why they would want them. Optional equipment can be included at random (as long as it's not selectable in a loadout), and generic equipment shouldn't appear unless it's _really_ funny. Expendable items in a locker should have adequate availability outside of lockers to discourage looting multiple lockers and leaving the next player with part of their gear missing.
 
@@ -86,7 +82,9 @@ In addition to their own specialized gear, there are several items present in al
 
 Vending machines in SS14 are the most straightforward source of items in game. They have a mostly consistent stock, and their consistent location in maps makes them a well-known, first choice place for gear. This availability helps players to better plan out their activities, their thefts, and their jokes, with the limited amounts ensuring they never act as a guarantee and trivialize resource gathering. Overall they serve as a simple solution to putting items in the hands of players.
 
-Every vending machine should have a clear identity that can be summarized in twoish words (its name). The items inside should never be exclusive and should trend towards core and introductory mechanics rather than deep and complex ones. Roleplay and "useless" items are encouraged when they fit the theme. The stock should supply no more than 4 (four) players, with less supply inside machines with more specific accesses, and more supply for items that are expendable. A full set of department vending machines should be capable of gearing exactly two naked players with all the essential equipment, and a uniform. It should _always_ be possible to restock a vending machine through cargo.
+Every vending machine should have a clear identity that can be summarized in twoish words (its name). The items inside should trend towards core and introductory mechanics rather than complex ones, leaving advanced items to other sources (such as science or cargo). Roleplay and "useless" items are encouraged when they fit the theme. The stock should supply no more than 4 (four) players, with less supply inside machines with more specific accesses, and more supply for items that are expendable. A full set of department vending machines should be capable of gearing exactly two naked players with all the essential equipment, and a uniform.
+
+It must _always_ be possible to restock a vending machine through cargo.
 
 #### Tool Vendors
 
@@ -111,7 +109,7 @@ Vending machines can come in many forms as long the the theme is strong and the 
 
 In addition to their normal stock every vending machine can be hacked to reveal extra "contraband" items. While not necessarily illegal they are sometimes dangerous, but typically trend towards jokes. Items in this list should still thematically belong alongside other items in the vendor, but should also contain a small contradiction. Cow tools are tools but obviously not _useful_ tools. Poisoned wine belongs with booze, but also doesn't belong in a "safe" inventory.
 
-Vending machines are also capable of having a set of items accessed by using a cryptographic sequencer (EMAG) on them. Items in an emagged inventory should be explicitly themed around the Syndicate and should not be particularly useful. Emag inventories are meant as low consequence disruption and anti-Nanotrasen roleplay, not as a source of restocking meaningful resources.
+Vending machines are also capable of having a set of "illegal" items, primarily accessed by using a cryptographic sequencer (EMAG) on them. Items in the illegal inventory should be explicitly themed around the Syndicate and should not be particularly useful. These inventories are meant as low consequence disruption and anti-Nanotrasen roleplay, not as a source of restocking meaningful resources.
 
 ### Lathes
 
