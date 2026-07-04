@@ -152,8 +152,6 @@ Space Station 14
 	- [Proposals]()
 
 - [Combat](en/space-station-14/combat.md)
-	- [PR Guidelines](en/space-station-14/combat/guidelines.md)
-	
 	- [Structures](en/space-station-14/combat/structures.md)
 
 	- [Proposals]()
